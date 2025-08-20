@@ -1,1 +1,1 @@
-Este es el archivo original
+Cambios desde la rama B
